@@ -68,7 +68,7 @@ export default function Footer() {
       />
 
       {/* Red top border */}
-      <div className="absolute top-0 left-0 right-0 h-[3px] bg-[#DA1D3A]" />
+      <div className="absolute top-0 left-0 right-0 h-0.75 bg-[#DA1D3A]" />
 
       <div className="relative z-10">
         {/* Big hashtag */}
